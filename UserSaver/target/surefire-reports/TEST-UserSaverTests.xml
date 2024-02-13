@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="UserSaverTests" time="3.789" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="19"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\test-classes;C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\classes;C:\Users\Jose\.m2\repository\com\mysql\mysql-connector-j\8.3.0\mysql-connector-j-8.3.0.jar;C:\Users\Jose\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar;C:\Users\Jose\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Jose\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Jose\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Jose\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Jose\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Jose\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Jose\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Cry\jdk-19\bin"/>
+    <property name="sun.java.command" value="C:\Users\Jose\AppData\Local\Temp\surefire2816602910315411373\surefirebooter-20240213020811921_3.jar C:\Users\Jose\AppData\Local\Temp\surefire2816602910315411373 2024-02-13T02-08-11_677-jvmRun1 surefire-20240213020811921_1tmp surefire_0-20240213020811921_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\test-classes;C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\classes;C:\Users\Jose\.m2\repository\com\mysql\mysql-connector-j\8.3.0\mysql-connector-j-8.3.0.jar;C:\Users\Jose\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar;C:\Users\Jose\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Jose\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Jose\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Jose\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Jose\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Jose\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Jose\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Jose"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-09-20"/>
+    <property name="java.home" value="D:\Cry\jdk-19"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Jose\Documents\NetBeansProjects\UserSaver"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Jose\AppData\Local\Temp\surefire2816602910315411373\surefirebooter-20240213020811921_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="19+36-2238"/>
+    <property name="user.name" value="Jose"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="D:\netBeans\NetBeans-20\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Jose\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Jose\AppData\Local\Temp\"/>
+    <property name="java.version" value="19"/>
+    <property name="user.dir" value="C:\Users\Jose\Documents\NetBeansProjects\UserSaver"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\Cry\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python312\Scripts\;C:\Python312\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Oculus\Support\oculus-runtime;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Putty\;C:\Program Files\dotnet\;C:\Program Files (x86)\ZeroTier\One\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\chocolatey\bin;D:\scala\bin;D:\nodejs\;D:\Perforce\;D:\scala\;D:\scala\Git\cmd;C:\Users\Jose\AppData\Local\Microsoft\WindowsApps;;D:\Desktop\Microsoft VS Code\bin;D:\dnd\;C:\Users\Jose\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="19+36-2238"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="63.0"/>
+  </properties>
+  <testcase name="test1" classname="UserSaverTests" time="0.158">
+    <system-out><![CDATA[create table user (
+idnum INT AUTO_INCREMENT PRIMARY KEY,
+first_name varchar(35),
+last_name varchar(35),
+username varchar(35),
+password varchar(35)
+);
+Connected!
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Fernando', 'Gomez', 'Fgomez00', '1191108');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('John', 'Doe', 'johndoe', 'password123');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Alice', 'Smith', 'alicesmith', 'qwerty');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Bob', 'Johnson', 'bobjohnson', 'letmein');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Eva', 'Jones', 'evajones', '123456');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('David', 'Brown', 'davidbrown', 'secret');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Emily', 'White', 'emilywhite', 'admin123');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Frank', 'Miller', 'frankmiller', 'ilovecoding');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Grace', 'Moore', 'gracemoore', 'java123');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Henry', 'Clark', 'henryclark', 'mypassword');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Isabel', 'Baker', 'isabelbaker', 'secure123');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Jack', 'Taylor', 'jacktaylor', 'webdev');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Karen', 'Cooper', 'karenc', 'p@ssw0rd');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Leo', 'Adams', 'leoadams', 'apple123');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Mia', 'Carter', 'miacarter', 'codingisfun');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Nathan', 'Evans', 'nathanevans', 'hello123');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Olivia', 'Fisher', 'oliviafisher', 'webdesign');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Paul', 'Gray', 'paulgray', 'myp@ss');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Quinn', 'Harris', 'quinnharris', 'letsgo');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Ryan', 'Ingram', 'ryaningram', 'guitar123');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Samantha', 'Jordan', 'samanthaj', 'myp@ssword');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Tom', 'Keller', 'tomkeller', 'python123');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Ursula', 'Lopez', 'ursulalopez', 'codingrocks');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Vincent', 'Mills', 'vincentmills', 'java456');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: INSERT INTO user (first_name, last_name, username, password) VALUES  ('Wendy', 'Nelson', 'wendynelson', 'letmein456');
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =1
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =2
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =3
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =4
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =5
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =6
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =7
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =8
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =9
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =10
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =11
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =12
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =13
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =14
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =15
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =16
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =17
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =18
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =19
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =20
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =21
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =22
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =23
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =24
+Connected!
+com.mysql.cj.jdbc.ClientPreparedStatement: select idnum,first_name,last_name,username,password from user where idnum =25
+]]></system-out>
+  </testcase>
+</testsuite>

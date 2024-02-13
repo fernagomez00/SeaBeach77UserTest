@@ -1,0 +1,50 @@
+@options
+@packages
+-classpath
+'C:/Users/Jose/.m2/repository/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.jar;C:/Users/Jose/.m2/repository/com/google/protobuf/protobuf-java/3.25.1/protobuf-java-3.25.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Jose/Documents/NetBeansProjects/UserSaver/src/main/java;C:/Users/Jose/Documents/NetBeansProjects/UserSaver/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Jose/Documents/NetBeansProjects/UserSaver/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'User Saver 1.0 API'
+-use
+-version
+-windowtitle
+'User Saver 1.0 API'
+sb.usersaver
+C:\Users\Jose\.m2\repository\com\mysql\mysql-connector-j\8.3.0\mysql-connector-j-8.3.0.jar = 1705352827000
+C:\Users\Jose\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar = 1700088488000
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\src\main\java = 1707800113972
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\generated-sources\annotations = 1707811690235
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\allclasses-index.html = 1707811699628
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\allpackages-index.html = 1707811699635
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\copy.svg = 1707811699691
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\element-list = 1707811699543
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\help-doc.html = 1707811699681
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\index-all.html = 1707811699664
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\index.html = 1707811699674
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\jquery-ui.overrides.css = 1707811699715
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\member-search-index.js = 1707811699643
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\module-search-index.js = 1707811699637
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\overview-tree.html = 1707811699608
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\package-search-index.js = 1707811699639
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\script.js = 1707811699688
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\search-page.js = 1707811699698
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\search.html = 1707811699670
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\search.js = 1707811699695
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\stylesheet.css = 1707811699684
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\tag-search-index.js = 1707811699644
+C:\Users\Jose\Documents\NetBeansProjects\UserSaver\target\apidocs\type-search-index.js = 1707811699641

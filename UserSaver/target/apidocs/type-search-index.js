@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"sb.usersaver","l":"JDBCUtils"},{"p":"sb.usersaver","l":"SQL"},{"p":"sb.usersaver","l":"UserSaver"}];updateSearchResults();
